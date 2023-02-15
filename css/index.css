@@ -100,14 +100,15 @@ body {
 
 #about_descr {
     color: white;
+    margin: auto;
     margin-top: -0.05%;
     text-align: center;
     font-weight: 200;
     font-size: 1.5em;
     padding-top: 5%;
-    width: 52%;
+    width: 62%;
     float: center;
-    margin-left: 23%;
+    /* margin-left: 23%; */
 
 }
 
